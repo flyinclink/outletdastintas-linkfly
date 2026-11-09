@@ -3,7 +3,7 @@
 Template de página "link na bio" (estilo linktree) para reutilizar com clientes.
 HTML + CSS + JS estáticos, coluna mobile centralizada, deploy no GitHub Pages.
 
-Cliente: **Navegar Beach** (moda praia).
+Cliente: **Outlet das Tintas São Luís** (unidade Cohama).
 
 ## Como usar para um novo cliente
 

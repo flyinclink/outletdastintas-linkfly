@@ -5,20 +5,20 @@
    ========================================================= */
 
 :root {
-  /* ---------- PALETA DO CLIENTE — Liana Pereira Jóias (preto / cobre) ---------- */
-  --bg-page:   #000000;   /* fundo atrás da coluna (preto)     */
-  --bg:        #0a0a0a;   /* fundo da coluna / página          */
-  --card:      #161513;   /* cards claros (produtos, feed)     */
-  --card-2:    #201e1a;   /* botões redondos das redes         */
-  --card-dark: #b97a4a;   /* cards de contraste (CTA) — cobre suave */
+  /* ---------- PALETA DO CLIENTE — Outlet das Tintas (azul-marinho / laranja) ---------- */
+  --bg-page:   #001a40;   /* fundo atrás da coluna (azul-marinho)     */
+  --bg:        #002454;   /* fundo da coluna / página          */
+  --card:      #0a3268;   /* cards claros (produtos, feed)     */
+  --card-2:    #113d7a;   /* botões redondos das redes         */
+  --card-dark: #ff7f00;   /* cards de contraste (CTA) — laranja */
 
-  --text:      #f3ece2;   /* texto principal                  */
-  --text-dim:  #cbb9a4;   /* texto secundário                 */
-  --text-mute: #9c8a76;   /* rótulos / legendas              */
-  --on-dark:   #1a1210;   /* texto sobre os cards de contraste (escuro sobre cobre) */
+  --text:      #f4f7fb;   /* texto principal                  */
+  --text-dim:  #c9d6e8;   /* texto secundário                 */
+  --text-mute: #9fb3cf;   /* rótulos / legendas              */
+  --on-dark:   #1c1002;   /* texto sobre os cards de contraste (escuro sobre laranja) */
 
-  --accent:      #c98a54; /* cor de marca (cobre suave)       */
-  --accent-2:    #97643a; /* variação mais escura            */
+  --accent:      #ff7f00; /* cor de marca (laranja)       */
+  --accent-2:    #d96500; /* variação mais escura            */
 
   --wa:        #4f8a4c;   /* verde do card de WhatsApp (dessaturado) */
   --wa-2:      #3c6b3a;
@@ -95,7 +95,7 @@ a { color: inherit; text-decoration: none; }
   background: #fff;
   box-shadow: 0 0 0 3px var(--accent);
 }
-.avatar img { width: 100%; height: 100%; object-fit: contain; }
+.avatar img { width: 100%; height: 100%; object-fit: contain; padding: 12px; }
 
 /* imagens reais preenchendo os espaços numerados */
 .product-card__img img,
